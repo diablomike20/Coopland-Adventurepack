@@ -1,6 +1,6 @@
-# Omega Adventure Pack Server Deployment
+# Coopland Adventure Pack Server Deployment
 
-Primarily, there are two different ways to set up an Omega Adventure Pack server, either by installing it on a computer running either Microsoft Windows or setting it up in Linux (In the documented cases here, Debian/Ubuntu). The purpose of this repository is to help you set up the Omega Adventure Pack with the assumption of a reasonable level of prior knowledge of whichever operating system that you choose to use to deploy the server onto.  If you have any additional questions and/or concerns, please reach out to us on our [Community Discord Channel](https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2FKmGguMz&sa=D&sntz=1&usg=AFQjCNHFXE7b1nuhdnnZnT3OCjdJ0uLmtw).
+Primarily, there are two different ways to set up an Coopland Adventure Pack server, either by installing it on a computer running either Microsoft Windows or setting it up in Linux (In the documented cases here, Debian/Ubuntu). The purpose of this repository is to help you set up the Omega Adventure Pack with the assumption of a reasonable level of prior knowledge of whichever operating system that you choose to use to deploy the server onto.  If you have any additional questions and/or concerns, please reach out to us on our Discord.
 
 ### Prerequisites
 ------
@@ -15,7 +15,7 @@ Primarily, there are two different ways to set up an Omega Adventure Pack server
 - `sudo apt install openjdk-8-jre-headless`
 
 **Downloading the Latest Server Release:**
-- Download the latest release of Omega Adventure Pack from the [Releases](https://github.com/cyberstrawberry101/Omega-Adventure-Pack/releases) page.  The file you will need is named "**Source Code.zip**".
+- Download the latest release of Coopland Adventure Pack from the [Releases] page.  The file you will need is named "**Source Code.zip**".
 - Extract the ZIP archive in the directory that you will be running your server from on your computer.  
 
 ### Installation
@@ -29,10 +29,7 @@ Primarily, there are two different ways to set up an Omega Adventure Pack server
 
 ## Authors
 
-* **Erick** - *Modpack Creator* - [Info]()
-* **PowerHungryRing** - *Modpack Development Assistant* - [Info]()
-* **CyberStrawberry** - *Modpack Development Infrastructure & Deployment Assistant* - [Info]()
-
+* **Diablomike20** - *Modpack Creator*
   
 
 
