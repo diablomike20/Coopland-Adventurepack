@@ -30,6 +30,8 @@ Primarily, there are two different ways to set up an Coopland Adventure Pack ser
 ## Authors
 
 * **Diablomike20** - *Modpack Creator*
+* PowerHungryRing - Modpack Development Assistant
+* CyberStrawberry - Modpack Development Infrastructure & Deployment Assistant
   
 
 
